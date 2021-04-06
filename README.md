@@ -1,0 +1,2 @@
+# datamining
+Tugas 2
